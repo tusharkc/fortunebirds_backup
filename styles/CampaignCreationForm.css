@@ -1,0 +1,14 @@
+.sweet-alert div:first-of-type {
+  background-color: #1d2228 !important;
+}
+.sweet-alert div:first-of-type div:nth-child(5) {
+  background-color: #1d2228 !important;
+}
+
+.sweet-alert div:last-of-type {
+  background-color: #1d2228 !important;
+}
+
+/* .sweet-alert div {
+  background-color: #1d2228 !important;
+} */

@@ -1,0 +1,69 @@
+.nft_card_container {
+  background-color: #292b33;
+  box-shadow: 0 0 20px rgb(0 0 0 / 7%);
+}
+
+.nft_card_campaign_id {
+  font-weight: 600;
+  font-size: 24px;
+  color: #5689de;
+}
+
+.nft_card_autho_name {
+  margin-bottom: 14px;
+}
+
+.time_to_role_text {
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.nft_card_content_time {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.nft_card_content_time_container {
+  background-color: #14181d;
+}
+
+.join_campaign_now_btn {
+  padding: 10px 25px;
+  border-radius: 5px;
+  font-weight: 700;
+  background-color: #5689de;
+}
+
+.join_campaign_now_btn:hover {
+  background-color: #427de4;
+}
+
+.join_campaign_now_btn:active {
+  background-color: #21437d;
+}
+
+.entrants_counter {
+  font-size: 14.6px;
+  color: #5689de;
+}
+
+.entrants_container:hover .entrants_indicator {
+  display: block;
+  background-color: #0d3e6f;
+}
+
+.thanks_for_joining_text {
+  color: #9ddbff;
+}
+
+.winner_indecator {
+  background-color: #316b73;
+}
+
+.ended_overly {
+  filter: grayscale(90%);
+}
+
+.video_nft {
+  height: 326px;
+}

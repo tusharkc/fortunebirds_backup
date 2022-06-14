@@ -1,0 +1,30 @@
+.app_header {
+  background-color: #14181d;
+}
+
+.menu_items {
+  font-size: 15px;
+  font-weight: 700;
+  color: #828f99;
+  min-width: 400px;
+}
+
+.login_button {
+  background-color: #184791b8;
+  color: #0084ff;
+  font-size: 15px;
+  text-transform: uppercase;
+  border-radius: 6px;
+  font-weight: 700;
+  padding: 6px 10px 4px;
+}
+
+.user_account_name {
+  background-color: #184791b8;
+  color: #0084ff;
+  font-size: 15px;
+  text-transform: uppercase;
+  border-radius: 6px;
+  font-weight: 700;
+  padding: 6px 10px 4px;
+}

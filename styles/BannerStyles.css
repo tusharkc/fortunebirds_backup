@@ -1,0 +1,22 @@
+.bg_img_container {
+  background-image: url("../public/media/banner_bg_img.png");
+  width: 100%;
+  background-size: cover;
+}
+
+.banner_content_container {
+  padding: 80px 0px;
+}
+
+.app_title {
+  font-size: 48px;
+  font-weight: 600;
+  padding: 8px 0;
+  color: #fff;
+}
+
+.app_subtitle {
+  color: #e0e0e0;
+  font-weight: 300;
+  font-size: 18px;
+}
